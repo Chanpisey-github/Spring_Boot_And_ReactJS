@@ -1,7 +1,7 @@
 import  { React, useEffect, useState} from 'react';
 import { useParams} from 'react-router-dom';
-import { MatchDetailCard } from '../compponents/MatchDetailCard';
-import { MatchSmallCard } from '../compponents/MatchSmallCard';
+import { MatchDetailCard } from '../components/MatchDetailCard';
+import { MatchSmallCard } from '../components/MatchSmallCard';
 
 
 
