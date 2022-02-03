@@ -1,0 +1,18 @@
+.HomePage {
+    .header-section {
+        align-self: center;
+        text-align: center;
+        font-size: 2rem;
+        color: aquamarine;
+        padding: 0 10px;
+        margin-bottom: 10px;
+        margin-top: 15px;
+        text-shadow: 10px;
+    }
+    .team-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 10px;
+        row-gap: 40px;
+    }
+}
