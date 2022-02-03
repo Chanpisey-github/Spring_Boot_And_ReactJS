@@ -24,9 +24,9 @@ export const MatchPage = () => {
 
     );
 
-        if(!matches || !matches.teamName || !matches.year){
-            return "Matches Is not Found in the system Sorry Please Try other";
-        }
+    // if(!matches || !matches.teamName || !matches.year){
+    //     return <h1> Team Not Found </h1>
+    // }
     return (
          
         <div className='MatchPage'>
